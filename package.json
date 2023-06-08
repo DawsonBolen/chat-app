@@ -1,0 +1,23 @@
+{
+  "name": "chat-app",
+  "version": "1.0.0",
+  "description": "Chat app",
+  "main": "server.js",
+  "scripts": {
+    "test": "NA"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DawsonBolen/chat-app.git"
+  },
+  "keywords": [
+    "chat",
+    "app"
+  ],
+  "author": "Dawson Bolen",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/DawsonBolen/chat-app/issues"
+  },
+  "homepage": "https://github.com/DawsonBolen/chat-app#readme"
+}
